@@ -24,7 +24,7 @@ FROM (
     FROM `grade-summary` `gs`
     INNER JOIN `academic-semeter` `asy` ON `gs`.`tid` = `asy`.`tid`
 ) AS `subquery`
-WHERE `academic-year` IN (60, 61, 62, 63, 64)
+
 GROUP BY `academic-year`";
 $gpax = $conn->query($sql_gpax);
 $data_gpax = array();
