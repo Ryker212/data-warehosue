@@ -160,7 +160,7 @@ foreach ($gpax as $ad) {
           <canvas id="singelBarChart64" width="500" height="250"></canvas>
         </div>
         <p>รอบ 1: <?php echo "GPAX " . $data_gpax[0]  ?></p>
-        <p>รอบ 2: <?php echo "GPAX " . $data_gpax64[1]  ?></p>
+        <p>รอบ 2: <?php echo "GPAX " . $data_gpax[1]  ?></p>
         <p>รอบ 3: <?php echo "GPAX " . $data_gpax64[2]  ?></p>
       </div>
     </div>
