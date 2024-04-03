@@ -110,12 +110,12 @@
                     </a>
                     </div>
                     <div class="col-lg-3 col-sm-6">
-                        <a href="did.html">
+                        <a href="chayut.php">
                         <div class="card gradient-2">
                             <div class="card-body">
                                 <h3 class="card-title text-white">Chayut</h3>
                                 <div class="d-inline-block">
-                                    <h2 class="text-white">นิสิตเรียนวิชาในคณะดีกว่าในภาคหรือไม่ ?</h2>
+                                    <h2 class="text-white">ภาคการศึกษาส่งผลต่อเกรดหรือไม่?</h2>
                                     <p class="text-white mb-0">Jan - March 2019</p>
                                 </div>
                                 <span class="float-right display-5 opacity-5"><i class="fa fa-users"></i></span>
