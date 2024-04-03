@@ -116,7 +116,7 @@ foreach ($gpax as $ad) {
       </div>
       <div class="center_div">
         <div class="card-body">
-          <h4 class="card-title">เกรดเฉลี่ยรวมของแต่ละปีการศึกษาของนิสิตทั้งหมด</h4>
+          <h4 class="card-title">เกรดเฉลี่ยรวมของนิสิตทั้งหมดในแต่ละปีการศึกษา</h4>
           <canvas id="singelBarChart" width="500" height="250"></canvas>
         </div>
         <p>ปี 2560: <?php echo "GPAX " . $data_gpax[0]  ?></p>
