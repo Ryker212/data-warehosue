@@ -167,7 +167,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="card gradient-6">
-                            <a href="kong.html">
+                            <a href="kong.php">
                             <div class="card-body">
                                 <h3 class="card-title text-white">Wongsakorn</h3>
                                 <div class="d-inline-block">
