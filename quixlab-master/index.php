@@ -124,12 +124,12 @@
                     </a>
                     </div>
                     <div class="col-lg-3 col-sm-6">
-                        <a href="bigshow.html">
+                        <a href="bigshow.php">
                         <div class="card gradient-3">
                             <div class="card-body">
                                 <h3 class="card-title text-white">Jintasak</h3>
                                 <div class="d-inline-block">
-                                    <h2 class="text-white">-</h2>
+                                    <h2 class="text-white">ปีที่เข้าศึกษาเข้ามีผลต่อเกรดรวมหรือไม่ ?</h2>
                                     <p class="text-white mb-0">Jan - March 2019</p>
                                 </div>
                                 <span class="float-right display-5 opacity-5"><i class="fa fa-users"></i></span>
