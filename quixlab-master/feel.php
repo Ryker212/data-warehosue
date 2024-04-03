@@ -159,7 +159,7 @@ foreach ($gpax as $ad) {
           <h4 class="card-title">เกรดเฉลี่ยรวมของแต่ละรอบของนิสิต ปี64</h4>
           <canvas id="singelBarChart64" width="500" height="250"></canvas>
         </div>
-        <p>รอบ 1: <?php echo "GPAX " . $data_gpax64[0]  ?></p>
+        <p>รอบ 1: <?php echo "GPAX " . $data_gpax[0]  ?></p>
         <p>รอบ 2: <?php echo "GPAX " . $data_gpax64[1]  ?></p>
         <p>รอบ 3: <?php echo "GPAX " . $data_gpax64[2]  ?></p>
       </div>
