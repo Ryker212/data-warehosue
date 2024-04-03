@@ -152,12 +152,12 @@
                     </a>
                     </div>
                     <div class="col-lg-3 col-sm-6">
-                        <a href="best.html">
+                        <a href="best.php">
                         <div class="card gradient-4">
                             <div class="card-body">
                                 <h3 class="card-title text-white">Thanyataon</h3>
                                 <div class="d-inline-block">
-                                    <h2 class="text-white">นิสิตเรียนวิชาในภาคดีกว่าวิชาในคณะหรือไม่ ?</h2>
+                                    <h2 class="text-white">นิสิตเรียนวิชาในภาค,ในคณะ,นอกคณะได้ดีที่สุด ?</h2>
                                     <p class="text-white mb-0">Jan - March 2019</p>
                                 </div>
                                 <span class="float-right display-5 opacity-5"><i class="fa fa-users"></i></span>
